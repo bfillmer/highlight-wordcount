@@ -2,25 +2,9 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle highlight-wordcount",
+        "label": "Word Count",
         "command": "highlight-wordcount:toggle"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Plugins",
-      "submenu": [
-        {
-          "label": "highlight-wordcount",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "highlight-wordcount:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
