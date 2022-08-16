@@ -1,7 +1,7 @@
 {
   "name": "highlight-wordcount",
   "main": "./lib/highlight-wordcount",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Inkdrop plugin to count the words in the currently highlighted text.",
   "keywords": [
     "inkdrop",
